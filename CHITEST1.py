@@ -1,4 +1,4 @@
-count = int(input("Enter the count : "))
+count = int(input("Enter number of inputs : "))
 for item in range(count):
     a,b = input("Enter two numbers : ").split(' ')
     try:
